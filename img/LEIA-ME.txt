@@ -1,0 +1,1 @@
+Coloque aqui as imagens e a logo. Depois informe o caminho em js/config.js (ex.: logo:"img/logo.png").
